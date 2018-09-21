@@ -1,2 +1,2 @@
-# alieninvasion
-space invaders like game made in python
+# alien_invasion
+A game similar to Space Invaders written in Python
