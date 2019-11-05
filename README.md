@@ -1,6 +1,6 @@
 # alien_invasion
 
-This was a variation of the original Atari game of Space Invaders. This project was written in Python, using the PyCharm IDE. This project isn't necessarily meant to be a replica, but as a jumpstart into game programming, design, and writing in Python. This was my first exposure to using Python, and I'm happy with the result despite how simple the game appears.
+This was a variation of the original Atari game of Space Invaders. This project was written in Python, using the PyCharm IDE. This project isn't necessarily meant to be a replica of Space Invaders, but as a jumpstart into game programming, design, and writing in Python. This was my first exposure to using Python, and I'm happy with the result despite how simple the game appears.
 
 ============================================================================== 
 
